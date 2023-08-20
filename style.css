@@ -1,0 +1,19 @@
+body{
+    background-color: #5dacbd;
+    text-align: center;
+}
+.conteiner{
+    background-color: #dbd8e3;
+    border-radius: 30px;
+    border: 2px solid;
+    margin-left: 300px;
+    margin-right: 300px;
+    padding: 50px;
+}
+input{
+    border-radius: 30px;
+}
+p{
+    font-weight: bold;
+    font-size: 20px;
+}
