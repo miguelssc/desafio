@@ -1,19 +1,26 @@
 body{
-    background-color: #5dacbd;
+    background-color:  #3c4245;
     text-align: center;
 }
 .conteiner{
-    background-color: #dbd8e3;
+    background-color:#5f6769;
     border-radius: 30px;
     border: 2px solid;
-    margin-left: 300px;
-    margin-right: 300px;
+    margin-left: 700px;
+    margin-right: 700px;
     padding: 50px;
 }
 input{
     border-radius: 30px;
+    border: 2px solid;
 }
 p{
     font-weight: bold;
     font-size: 20px;
+    border-radius: 30px;
+}
+button:hover{
+color: whitesmoke;
+transition: 0,3;
+border-radius: 30px;
 }
